@@ -1,7 +1,7 @@
 # This is a YouTube Clone which replicates the YouTube official website
 ### It uses an API to render the required items
 
-🔗 [Click here to view the website](https://youtube-clone-lyart-omega.vercel.app/)
+🔗 [Click here to view the website](https://youtube-clone-muhammed-zain.vercel.app/)
 
 
 

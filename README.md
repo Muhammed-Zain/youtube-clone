@@ -4,8 +4,11 @@
 🔗 [Click here to view the website](https://youtube-clone-git-main-muhammed-zain.vercel.app/)
 
 
+This website is **responsive**
+
 
 This project is created using React and API management.
+
 
 > Download a zip file of the current repository and extract all the files on a particular folder
 
